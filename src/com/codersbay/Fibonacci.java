@@ -8,7 +8,7 @@ public class Fibonacci {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Please enter an int value. You will receive the Fibonacci of your input:");
+        System.out.println("Please enter an int value. You will get the Fibonacci of your input:");
         int input = scanner.nextInt();
 
         System.out.println("Your Fibonacci number is:");

@@ -12,7 +12,7 @@ public class Fibonacci {
         int input = scanner.nextInt();
 
         System.out.println("Your Fibonacci number is:");
-        System.out.println(fibonacci(10));
+        System.out.println(fibonacci(input));
 
     }
     public static int fibonacci(int n) {
